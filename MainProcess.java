@@ -53,6 +53,17 @@ public class MainProcess extends Thread implements Runnable{
 		executor.execute(task2);		
 		executor.execute(task3);
 		
+		executor.execute(task1);
+		executor.execute(task2);		
+		executor.execute(task3);
+
+		executor.execute(task1);
+		executor.execute(task2);		
+		executor.execute(task3);
+		
+		executor.execute(task1);
+		executor.execute(task2);		
+		executor.execute(task3);
 		
 		
 		
