@@ -69,6 +69,8 @@ public class MainProcess extends Thread implements Runnable{
 		executor.execute(task2);		
 		executor.execute(task3);
 		
+		System.out.println("this is the thread example . . . ");
+		
 		
 		
 	}
